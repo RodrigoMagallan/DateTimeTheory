@@ -1,0 +1,15 @@
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\bin\Debug\net6.0\DateTimeTheory.exe
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\bin\Debug\net6.0\DateTimeTheory.deps.json
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\bin\Debug\net6.0\DateTimeTheory.runtimeconfig.json
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\bin\Debug\net6.0\DateTimeTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\bin\Debug\net6.0\DateTimeTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.csproj.AssemblyReference.cache
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.AssemblyInfoInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.AssemblyInfo.cs
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.csproj.CoreCompileInputs.cache
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\refint\DateTimeTheory.dll
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.pdb
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\DateTimeTheory.genruntimeconfig.cache
+C:\Users\royca\Desktop\CSharpFundamentals\DateTimeTheory\DateTimeTheory\obj\Debug\net6.0\ref\DateTimeTheory.dll
